@@ -79,7 +79,7 @@ int main() {
             myAccount.displayAccountInfo();
             break;
         case 4:
-            cout << "Exiting..." << endl;
+            cout << "Exited" << endl;
             break;
         default:
             cout << "Invalid choice. Please try again." << endl;
